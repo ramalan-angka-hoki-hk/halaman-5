@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ramalan-angka-hoki-hk.github.io/halaman-5/sitemap.xml
